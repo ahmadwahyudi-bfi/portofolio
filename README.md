@@ -6,7 +6,25 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 
 ---
 
-## 🛍️ BGMT (Freelance — MS GLOW)  
+## 🧑‍💼 E-Link DLH Balikpapan  
+**Flutter | 2023**  
+**Type:** Enterprise productivity (Android & iOS)  
+**Summary:** This application provides information related to environmental management in Balikpapan City.
+**Highlights:**
+- Regulations related to Environmental Management
+- TPS location plan in Balikpapan City
+- Location Plan of the Waste Bank in Balikpapan City
+- Cemetery location managed by DLH Balikpapan City
+- List of Adiwiyata Schools
+- List of Climate Villages
+- Request for a visit to DLH Balikpapan
+- Request for Complaints
+- Emission Test Data
+**Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.dlh1.com)
+  
+---
+
+## 🛍️ BGMT - MSGLOW 
 **Flutter | 2022**  
 **Type:** iPad POS (iOS / iPadOS)  
 **Summary:** In-store POS for cosmetic retail operations.  
@@ -42,7 +60,7 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
   
 ---
 
-## 🤝 OCto Friends  
+## 🤝 OCTO Friends  
 **Flutter | 2021**  
 **Type:** Referral app (Android & iOS) — CIMB Niaga  
 **Summary:** Referral flows for **Credit Cards**, **Personal Loans**, and **Mortgage** applications.  
@@ -52,18 +70,6 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 - Push notifications & basic analytics  
 **Preview:** [Google Play](#) · [App Store](#)
 
----
-
-## 🧑‍💼 Weshare Waskita (Freelance)  
-**Flutter | 2020**  
-**Type:** Enterprise productivity (Android & iOS)  
-**Summary:** Internal app for Waskita employees to share documents, join forums, ask experts, read articles, and access a knowledge repository.  
-**Highlights:**
-- SSO-ready architecture for enterprise users  
-- Rich content, posts, and threaded discussions  
-- Offline-aware document viewing  
-**Preview:** [Google Play](#) · [App Store](#)
-  
 ---
 
 ## Contact
