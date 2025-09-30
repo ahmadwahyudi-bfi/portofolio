@@ -17,7 +17,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 - Admin Login
 - Backend using Strapi (Javascript)
   
-**Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.obfusacate.celebrity_wellness/)
+**Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.obfusacate.celebrity_wellness)
   
 ---
 
