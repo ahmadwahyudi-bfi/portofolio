@@ -1,6 +1,6 @@
 # Ahmad Wahyudi Portfolio
 
-Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps for Android & iOS. Below are selected projects shipped between **2020–2025**.
+Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps for Android iOS and Web Application. Below are selected projects shipped between **2020–2025**.
 
 > **Tech stack:** Flutter (Dart), Bloc/Cubit, Riverpod, Getx, Jetpack Compose, React, Tailwind CSS, REST API, Firebase, CI/CD.
 
