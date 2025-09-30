@@ -6,6 +6,33 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 
 ---
 
+## 📱 Celebrity Wellness App
+**Fullstack | 2025**  
+**Type:** Celebrity Wellness APP  
+**Summary:** massage reservation app for Celebrity Wellness 
+**Highlights:**
+- Therapist Login
+- Customer Login
+- Admin Login
+- Backend using Strapi (Javascript)
+  
+**Preview:** [Google Play]([https://celebrity-wellness.com/](https://play.google.com/store/apps/details?id=com.obfusacate.celebrity_wellness))
+  
+---
+
+## 🖥️ Celebrity Wellness 
+**React | 2024**  
+**Type:** Company Profile Responsive Web  
+**Summary:** This is the company profile site for Celebrity Wellness.  
+**Highlights:**
+- Responsive in Mobile and Desktop
+- Use Tailwind CSS
+- Build with React
+  
+**Preview:** [Site](https://celebrity-wellness.com/)
+  
+---
+
 ## 📱 E-Link DLH Balikpapan  
 **Flutter | 2023**  
 **Type:** Goverment App  
@@ -78,6 +105,5 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 ---
 
 ## Contact
-- **Email:** your.name@email.com  
-- **LinkedIn:** https://www.linkedin.com/in/yourprofile  
-- **GitHub:** https://github.com/yourhandle
+- **Email:** ahmadwahyudi.dev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/ahmad-wahyudi-a41bb5134 
