@@ -9,7 +9,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 ## 📱 Celebrity Wellness App
 **Fullstack | 2025**  
 **Type:** Celebrity Wellness APP  
-**Summary:** massage reservation app for Celebrity Wellness 
+**Summary:** Massage reservation app for Celebrity Wellness
 **Highlights:**
 - Therapist Login
 - Customer Login
