@@ -70,5 +70,3 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 - **Email:** your.name@email.com  
 - **LinkedIn:** https://www.linkedin.com/in/yourprofile  
 - **GitHub:** https://github.com/yourhandle
-
-> Need more details or code samples for a specific app? Ping me—happy to share what I can within NDA limits.
