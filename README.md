@@ -6,7 +6,7 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 
 ---
 
-## 🧑‍💼 E-Link DLH Balikpapan  
+## 📱 E-Link DLH Balikpapan  
 **Flutter | 2023**  
 **Type:** Enterprise productivity (Android & iOS)  
 **Summary:** This application provides information related to environmental management in Balikpapan City.
