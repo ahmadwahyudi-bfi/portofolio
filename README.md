@@ -8,8 +8,8 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 
 ## 📱 E-Link DLH Balikpapan  
 **Flutter | 2023**  
-**Type:** Goverment App 
-**Summary:** This application provides information related to environmental management in Balikpapan City.
+**Type:** Goverment App  
+**Summary:** This application provides information related to environmental management in Balikpapan City.  
 **Highlights:**
 - Regulations related to Environmental Management
 - TPS location plan in Balikpapan City
@@ -20,6 +20,7 @@ Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps
 - Request for a visit to DLH Balikpapan
 - Request for Complaints
 - Emission Test Data
+  
 **Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.dlh1.com)
   
 ---
