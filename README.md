@@ -2,7 +2,7 @@
 
 Hi! I’m a Senior Frontend engineer focusing on scalable, production-grade apps for Android & iOS. Below are selected projects shipped between **2020–2025**.
 
-> **Tech stack:** Flutter (Dart), Bloc/Cubit, Riverpod, Jetpack Compose, REST API, Firebase, CI/CD, Play Console & App Store Connect.
+> **Tech stack:** Flutter (Dart), Bloc/Cubit, Riverpod, Getx, Jetpack Compose, React, Tailwind CSS, REST API, Firebase, CI/CD.
 
 ---
 
