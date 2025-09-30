@@ -32,8 +32,9 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 **Highlights:**
 - iPad-first responsive layout  
 - Product catalog, cart & checkout  
-- Sales reports and basic discounting  
-**Preview:** [App Store](#)
+- Sales reports and basic discounting
+
+**Preview:** [App Store](https://apps.apple.com/us/app/bgmt/id1588185112)
   
 ---
 
@@ -45,7 +46,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 - Community posting & moderation  
 - Profile, milestones, and reminders  
 - Notifications & basic gamification
-  
+
 **Preview:** [App Store](#) · [Google Play](#)
 
 ---
