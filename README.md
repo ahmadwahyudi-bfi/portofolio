@@ -44,7 +44,8 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 **Highlights:**
 - Community posting & moderation  
 - Profile, milestones, and reminders  
-- Notifications & basic gamification  
+- Notifications & basic gamification
+  
 **Preview:** [App Store](#) · [Google Play](#)
 
 ---
@@ -56,7 +57,8 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 **Highlights:**
 - Secure auth & session management  
 - Transfers, bill payments, and account overview  
-- Production release & store operations  
+- Production release & store operations
+  
 **Preview:** [Google Play](#) · [App Store](#)
   
 ---
@@ -68,7 +70,8 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 **Highlights:**
 - Lead capture & referral tracking  
 - Multi-product application pipelines  
-- Push notifications & basic analytics  
+- Push notifications & basic analytics
+   
 **Preview:** [Google Play](#) · [App Store](#)
 
 ---
