@@ -85,19 +85,6 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
   
 ---
 
-## 👶 Komunitaz  
-**Flutter | 2022**  
-**Type:** Community app (Android & iOS)  
-**Summary:** Pregnancy & parenting community with baby/child monitoring and in-app forum.  
-**Highlights:**
-- Community posting & moderation  
-- Profile, milestones, and reminders  
-- Notifications & basic gamification
-
-**Preview:** [App Store](#) · [Google Play](#)
-
----
-
 ## 📱 KB Bukopin Mobile  
 **Flutter | 2021**  
 **Type:** Mobile banking (Android & iOS)  
@@ -107,7 +94,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 - Transfers, bill payments, and account overview  
 - Production release & store operations
   
-**Preview:** [Google Play](#) · [App Store](#)
+**Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.kbBukopin.Kbstar&hl=id) · [App Store](https://apps.apple.com/id/app/kbstar/id1620023436)
   
 ---
 
@@ -120,7 +107,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 - Multi-product application pipelines  
 - Push notifications & basic analytics
    
-**Preview:** [Google Play](#) · [App Store](#)
+**Preview:** [Google Play](https://play.google.com/store/apps/details?id=id.co.cimbniaga.octofriends&hl=id) · [App Store](https://apps.apple.com/id/app/octo-friends/id1562644230?l=id)
 
 ---
 
