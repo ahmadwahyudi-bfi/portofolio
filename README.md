@@ -6,6 +6,24 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 
 ---
 
+## 📱 Eight Order Kiosk App
+**Android (Jetpack Compose) | 2025**  
+**Type:** Kiosk App build with 21 Inch Android for Coffee Shop in Korea 
+**Summary:** Coffee Ordering Kiosk App
+
+**Highlight:**
+- Menu
+- Cart Management
+- Membership / Point
+  
+**Screenshot:**
+<img width="468" height="834" alt="Screenshot 2025-10-01 at 11 20 07" src="https://github.com/user-attachments/assets/ee6bc4d1-7819-4c7b-99e2-a57d845a7fbb" />
+<img width="469" height="828" alt="Screenshot 2025-10-01 at 11 20 20" src="https://github.com/user-attachments/assets/383df687-e762-4245-96f5-46233322c83d" />
+<img width="240" height="427" alt="Screenshot 2025-10-01 at 11 20 34" src="https://github.com/user-attachments/assets/ba817806-c5e8-4ba5-ac6b-638407449d58" />
+<img width="240" height="424" alt="Screenshot 2025-10-01 at 11 20 58" src="https://github.com/user-attachments/assets/24fa9c91-fdac-4d57-8888-e8b344dd4d26" />
+
+---
+
 ## 📱 Celebrity Wellness App
 **Fullstack | 2025**  
 **Type:** Celebrity Wellness APP  
