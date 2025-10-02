@@ -8,7 +8,7 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 
 ## 📱 Eight Order Kiosk App
 **Android (Jetpack Compose) | 2025**  
-**Type:** Kiosk App build with 21 Inch Android for Coffee Shop in Korea 
+**Type:** Kiosk App build for 21 Inch Android for Coffee Shop in Korea 
 **Summary:** Coffee Ordering Kiosk App
 
 **Highlight:**
