@@ -23,35 +23,6 @@ Hi! I’m a Senior Frontend Engineer focusing on scalable, production-grade apps
 <img width="240" height="427" alt="Screenshot 2025-10-01 at 11 20 20" src="https://github.com/user-attachments/assets/383df687-e762-4245-96f5-46233322c83d" />
 <img width="240" height="427" alt="Screenshot 2025-10-01 at 11 20 34" src="https://github.com/user-attachments/assets/ba817806-c5e8-4ba5-ac6b-638407449d58" />
 <img width="240" height="424" alt="Screenshot 2025-10-01 at 11 20 58" src="https://github.com/user-attachments/assets/24fa9c91-fdac-4d57-8888-e8b344dd4d26" />
-
----
-
-## 📱 Celebrity Wellness App
-**Fullstack | 2025**  
-**Type:** Celebrity Wellness APP  
-**Summary:** Massage reservation app for Celebrity Wellness.
-
-**Highlight:**
-- Therapist Login
-- Customer Login
-- Admin Login
-- Backend using Strapi (Javascript)
-  
-**Preview:** [Google Play](https://play.google.com/store/apps/details?id=com.obfusacate.celebrity_wellness)
-  
----
-
-## 🖥️ Celebrity Wellness 
-**React | 2024**  
-**Type:** Company Profile Responsive Web  
-**Summary:** This is the company profile site for Celebrity Wellness.  
-**Highlights:**
-- Responsive in Mobile and Desktop
-- Use Tailwind CSS
-- Build with React
-  
-**Preview:** [Site](https://celebrity-wellness.com/)
-  
 ---
 
 ## 📱 E-Link DLH Balikpapan  
